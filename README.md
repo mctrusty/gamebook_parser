@@ -1,4 +1,4 @@
 gamebook_parser
 ===============
 
-files for parsing NFL gamebooks
+Files for downloading, converting, and parsing NFL gamebooks.
